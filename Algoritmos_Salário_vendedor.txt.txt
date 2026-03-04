@@ -1,0 +1,24 @@
+Algoritmos <Salário_vendedor>
+
+Início
+
+VAR
+     nome: Caractere
+     salario_fixo, total_vendas, comissao, salario_total: Real
+
+Escreva("Digite seu nome:", nome)
+Escreva("Digite seu salário fixo:", salario_fixo)
+Escreva("Digite o valor total de suas vendas:", total vendas)
+
+comissao <- (total vendas * 15) / 100)
+
+salario_total <- salario_fixo + comissao
+
+Escreva("Nome do vendedor:", nome)
+Escreva("Salário fixo: R$", salario fixo)
+Escreva("Salário total com comissão: R$", salario total)
+
+Fim
+
+
+

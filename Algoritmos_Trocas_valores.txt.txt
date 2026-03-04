@@ -1,0 +1,18 @@
+Algoritmo <Trocas_de_valores>
+
+Início
+
+VAR
+A, B: Real
+
+Escreva("Digite o valor de A:", A)
+Escreva("Digite o valor de B:", B)
+
+A <- B
+B <- A
+
+Escreva("Após a troca:")
+Escreva("A =", A)
+Escreva("B =", B)
+
+Fim

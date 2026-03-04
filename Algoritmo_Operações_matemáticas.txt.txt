@@ -1,0 +1,24 @@
+Resultado <- Num1 + Num2
+
+Escreva ("A soma dos números é:", Resultado)
+
+// Subtração
+Resultado <- Num1 - Num2
+
+Escreva ("A subtração dos números é:", Resultado)
+
+// Divisão
+Se Num2 <> 0 então
+Resultado <- Num1 / Num2
+
+Escreva ("A divisão dos números é:", Resultado)
+Senão
+
+Escreva ("Não é possível dividir por zero.")
+
+// Multiplicação
+Resultado <- Num1 * Num2
+
+Escreva ("A multiplicação dos números é:", Resultado)
+
+Fim

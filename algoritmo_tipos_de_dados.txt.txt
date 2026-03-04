@@ -1,0 +1,29 @@
+Algoritmo <Tipos_de_Dados>
+
+Inicio
+
+VAR
+	
+	INTEIRO: NumeroUM
+	REAL: NumeroDois
+	CARACTERE: Nome
+	BOOLEANO: VF
+
+Escreva ("Digite um número inteiro:")
+Leia (NumeroUm)
+
+Escreva ("Digite um numero real:")
+Leia (NumeroDois)
+
+Escreva ("Digite seu nome:")
+Leia (Nome)
+
+Escreva ("Digite se é (verdadeiro/falso):")
+Leia (VF) 
+
+Escreva ("O número inteiro é:" + NumeroUm)
+Escreva ("O número real é:" + NumeroDois)
+Escreva ("O seu nome é:" + Nome)
+Escreva ("A resposta correta é:" + VF)
+
+Fim
