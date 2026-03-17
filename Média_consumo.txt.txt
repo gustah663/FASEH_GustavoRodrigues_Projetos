@@ -1,0 +1,14 @@
+Algoritmo <Consumo>
+
+Var
+   distancia, combustivel, consumo: Real
+
+  Escreva("Digite a distância percorrida (Km):")
+  Leia(distancia)
+  
+  Escreva("Digite o quanto de combustível foi gasto (Litros):")
+  Leia(combustivel)
+  
+  consumo <- distancia / combustivel
+
+  Escreva("O consumo médio desse veículo foi:", consumo, "Km/L")
