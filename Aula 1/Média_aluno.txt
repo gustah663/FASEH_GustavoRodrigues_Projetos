@@ -1,0 +1,18 @@
+Algoritmo <Media aluno>
+
+VAR
+nome_aluno: caractere
+Nota1, Nota2, Nota3, Media: real
+
+Inicio
+
+Escreva("Digite o nome do aluno:", nome_aluno)
+Escreva("Digite nota da primeira prova:", Nota1)
+Escreva("Digite nota da segunda prova:", Nota2)
+Escreva("Digite note da terceira prova:", Nota3)
+
+Media <- Nota1 + Nota2 + Nota3 /3
+
+Escreva("O aluno", nome_aluno, "Nas três provas teve uma média de:", Media)
+
+Fim
