@@ -1,0 +1,11 @@
+Algoritmo <Conversão_Graus>
+
+Var 
+  F, C: Real
+
+Escreva(Digite a temperatura em Grau Celsius:")
+Leia(C)
+
+F <- (9*C) / 5 + 32
+
+Escreva("A temperatura em  Fahrenheit será:", F)
