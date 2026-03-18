@@ -1,0 +1,15 @@
+Algoritmo <Conversão em Real>
+
+Var
+  R, D, C: Real
+
+Escreva("Digite a quantidade de dólares:")
+Leia(D)
+
+Escreava("Digite a cotação do dólar:")
+Leias(C)
+
+R <- C * D
+
+Escreva("A conversão para Reais é: R$", R)
+
