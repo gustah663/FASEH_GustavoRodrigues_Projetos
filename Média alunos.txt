@@ -1,0 +1,17 @@
+Algoritmo <média_notas>
+
+VAR
+  n1, n2, n3, media: Real
+
+  Escreva("Digite a nota 1:")
+  Leia(n1)
+  
+  Escreva("Digite a nota 2:")
+  Leia(n2)
+
+  Escreva("Digite a nota 3:")
+  Leia(n3)
+
+media <- (n1+n2+n3) / 3
+
+Escreva("A média de nota foi:", media)
